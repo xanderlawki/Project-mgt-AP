@@ -10,6 +10,8 @@ below is the admin credentials
 email: xandercodename@gmail.com
 password: 1234
 
+note: every user has a password of 1234 once created.
+
 ## Usage
 
 languanges:
